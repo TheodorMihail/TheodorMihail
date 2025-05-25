@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Theodor</h1>
-<h3 align="center">A passionate Unity Lead from Romania</h3>
+<h1>Hi 👋, I'm Theodor</h1>
+<h3>A passionate Unity Lead from Romania</h3>
 
 ---
 
