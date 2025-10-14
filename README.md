@@ -25,6 +25,7 @@ I enjoy tackling complex technical challenges, mentoring developers, and streaml
 ### 🚀 Featured Projects
 
 - 🧠 [BaseArchitecture](https://github.com/TheodorMihail/BaseArchitecture).
+- 🧠 [SpaceInvaders](https://github.com/TheodorMihail/SpaceInvaders).
   
 ---
 ### 📫 Reach me at:
